@@ -96,12 +96,12 @@ SQL-30-Days-Challenge/
 |  13 | Directly Import CSV in PostgreSQL      |    ✅   |
 |  14 | Arithmetic Operators in SQL            |    ✅   |
 |  15 | Comparison Operators in SQL            |    ✅   |
-|  16 | Coming Soon                            |    ⏳   |
-|  17 | Coming Soon                            |    ⏳   |
-|  18 | Coming Soon                            |    ⏳   |
-|  19 | Coming Soon                            |    ⏳   |
-|  20 | Coming Soon                            |    ⏳   |
-|  21 | Coming Soon                            |    ⏳   |
+|  16 | Logical Operators in SQL               |    ✅   |
+|  17 | BETWEEN, LIKE & IN Operators           |    ✅   |
+|  18 | Other SQL Operators & Clauses          |    ✅   |
+|  19 | Set Operators in SQL                   |    ✅   |
+|  20 | Aggregate Functions in SQL             |    ✅   |
+|  21 | String Functions in SQL                |    ✅   |
 |  22 | Coming Soon                            |    ⏳   |
 |  23 | Coming Soon                            |    ⏳   |
 |  24 | Coming Soon                            |    ⏳   |
@@ -116,10 +116,10 @@ SQL-30-Days-Challenge/
 
 ## 📊 Current Progress
 
-### **15 / 30 Days Completed — 50% 🎉**
+### **21 / 30 Days Completed — 70% 🎉**
 
 ```text
-███████████████░░░░░░░░░░░░░░░  50%
+█████████████████████░░░░░░░░░  70%
 ```
 
 > 🚀 Halfway there! The journey continues...
@@ -128,23 +128,19 @@ SQL-30-Days-Challenge/
 
 ## 🧠 Topics Covered So Far
 
-### Database & Table Operations
-
-* Creating tables
-* Inserting records
-* Updating records
-* Deleting records
-* Altering table structure
-* Renaming columns
-* Changing data types
-* Adding constraints
-
 ### Data Retrieval & Filtering
 
 * `SELECT`
 * `WHERE`
 * `ORDER BY`
+* `LIMIT`
+* `DISTINCT`
 * Comparison operators
+* Logical operators
+* `BETWEEN`
+* `LIKE`
+* `IN`
+* `IS NULL`
 * Filtering records
 
 ### Data Calculations
@@ -154,6 +150,30 @@ SQL-30-Days-Challenge/
 * Bonus calculations
 * Annual salary calculations
 * Salary increments
+* Aggregate functions
+* `SUM()`
+* `COUNT()`
+* `AVG()`
+* `MAX()`
+* `MIN()`
+
+### String Functions
+
+* `UPPER()`
+* `LOWER()`
+* `CONCAT()`
+* `SUBSTRING()`
+* `LENGTH()`
+* `TRIM()`
+* `REPLACE()`
+* `RIGHT()`
+
+### Set Operators
+
+* `UNION`
+* `UNION ALL`
+* `INTERSECT`
+* `EXCEPT`
 
 ### PostgreSQL & Data Import
 
@@ -166,6 +186,8 @@ SQL-30-Days-Challenge/
 
 * SQL assignments
 * Employee database exercises
+* Product database exercises
+* Student database exercises
 * Hands-on PostgreSQL queries
 
 ---
@@ -242,8 +264,9 @@ and feel free to explore the daily folders.
 
 ### 🚀 Keep Learning. Keep Practicing. Keep Building.
 
-**15 Days Down — 15 More To Go! 💪**
+**21 Days Down — 9 More To Go! 💪**
 
 > *"Consistency beats perfection."*
 
+---
 ---
